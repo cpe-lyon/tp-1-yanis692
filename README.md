@@ -67,7 +67,9 @@ Exercice 3
   
   
 3 Dans un premier tamps on selection les 10 premieres lignes avec alt + a, ensuite on les coupe avec ctrl +k ensuite on se place a la fin du fichier avec alt + shift + / ce qui nous emmene a la fin du fichier, on colle les 10 lignes avec ctrl + u.
+
 4 Pour annuler les anciennes action on fait alt + u
+
 5 On enregistre avec crtl +s et on quitte avec crtl + x
 
 
