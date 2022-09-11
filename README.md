@@ -76,3 +76,6 @@ Exercice 3
 
 Exercice 4 
 
+
+![image](https://user-images.githubusercontent.com/77662970/189540480-3f467930-542f-4998-b6d7-de174be09d7e.png)
+
