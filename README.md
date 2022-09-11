@@ -60,20 +60,11 @@ Commandes importantes
 25 Cela ne marche pas car la bdd n'est pas a jour, celle-ci sera a jour a 7h30 du matin si les machines sont allumér sinon 5 minutes apres le demarrage de la machine
  
 Exercice 3
-1. ![image](https://user-images.githubusercontent.com/77662970/189535280-39e4c73f-1135-4c94-8ac8-4a2d4c0bcf22.png)
 
-
-
-
-
-
-
-
-
-
-
-
-3.La combinaison est ctrl +alt + 8 :
+2.La combinaison est ctrl +alt + 8 :
+ ![image](https://user-images.githubusercontent.com/77662970/189535280-39e4c73f-1135-4c94-8ac8-4a2d4c0bcf22.png)
+  
+  
   
 3 Dans un premier tamps on selection les 10 premieres lignes avec alt + a, ensuite on les coupe avec ctrl +k ensuite on se place a la fin du fichier avec alt + shift + / ce qui nous emmene a la fin du fichier, on colle les 10 lignes avec ctrl + u.
 4 Pour annuler les anciennes action on fait alt + u
