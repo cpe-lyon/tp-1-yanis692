@@ -41,16 +41,26 @@ Commandes importantes
 
 15	Pour afficher un certain nombvre de ligne il faut utiliser tail –nx /var/log/syslog.
 
-16	
+16	dmesg | less cette commande permet de voir les message du tampon circulaire du noyau
 
 
 
-17	Cette commande permet d’afficher différentes informations sur l’activité du système, la commande pour le manuelle est man /etc/passwd
+17	Cette commande permet d’afficher différentes informations sur un utilisateur comme son login, son mot de passe remplacer par un x, l'identifint du systeme de l'utilisateur, le groupe principal de l'utilisateur, un commentaire textuelle sur l'utilisateur(Nom et Prénom par exemple), le répertoire home de l'utilisateur sur le système  et l'interpréteur shell par défaut de l'utilisateur. la commande pour le manuelle est man 5 passwd
 
-18	A
+18	
 
 19	Il y’a 34 utilisateur, on peut le savoir avec la commande wc –l /etc/passwd
 
-20	
+20	il y'a 141 page de manuel disponible pour le mot conversion. La commande est la suivante man -k conversion | wc -l
 
+21 On peut compter 17 fichierss passwd avec la commande sudo find / type -f -name 'passwd' | wc -l
+22 
+23
+24 le fichier history.log se trouvre dans l'arboressance suivant /var/log/apt/history.log
+25 Cela ne marche pas car la bdd n'est pas a jour, celle-ci sera a jour a 7h30 du matin si les machines sont allumér sinon 5 minutes apres le demarrage de la machine
  
+Exercice 3
+1.
+2.
+![image](https://user-images.githubusercontent.com/77662970/189535280-39e4c73f-1135-4c94-8ac8-4a2d4c0bcf22.png)
+
