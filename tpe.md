@@ -10,3 +10,7 @@ OLDPWD permet d'accéder a l'ancien repertoire graxce au chemin enregistrer et S
 10. ![image](https://user-images.githubusercontent.com/77662970/189623274-a6cdb258-b054-49f7-ab0a-f54e74d57c82.png)
 
 #Programmation BASH
+
+Script password :
+![image](https://user-images.githubusercontent.com/77662970/189850690-81648897-a0a6-487d-b417-aae1a9d6f2f0.png)
+
