@@ -2,16 +2,16 @@
 
 Yanis  Mansouri
 
-##Exercice 2. Prise en main de l’interpréteur de commandes
+## Exercice 2. Prise en main de l’interpréteur de commandes
 
-##Manuel
+### Manuel
 
 1.	Avec la commande which nous pouvons trouver le chemins d’accès au commandes exécutables
-2.	On peut recherchez un terme spécifique avec : /nom_rechercher
-3.	Avec la touche q nous pouvons quitter le manuelle immédiatement
-4.	L’introduction de la section 6 nous informe que des jeux et des programmes de jeux sont disponible sur le système
+2. On peut recherchez un terme spécifique avec : /nom_rechercher
+4.	Avec la touche q nous pouvons quitter le manuelle immédiatement
+5.	L’introduction de la section 6 nous informe que des jeux et des programmes de jeux sont disponible sur le système
 
-###Navigation dans l’arborescence des fichiers
+### Navigation dans l’arborescence des fichiers
 
 5.	On ne peut pas accéder au dossier root pour des problèmes de permissions
 6.	Nous n’avons pas accès à cette commande car nous somme pas connecter en tant que ‘admin’ donc nous avons pas les droit pour utiliser les commande sudo.
@@ -20,7 +20,7 @@ Yanis  Mansouri
 10.	Cette commande ne marche pas sur le dossier 2 car celui-ci n’est pas vide.
 11.	Pour supprimer un dossier et son contenue il faut utiliser la commande rm -r nom_dossier.
 
-###Commandes importantes
+### Commandes importantes
 1.	Nous pouvons afficher la date avec la commande : date. L’une des fonctionnalités de la commande time est de nous indiquer le temps de la réalisation d’une commande.
 2.	La commande ‘la’ permet de lister les fichiers dit cacher, les fichiers cacher commence par un point
 3.	Le programmes ls si situe dans /usr/bin/ls
@@ -70,7 +70,7 @@ Yanis  Mansouri
 
 25. Cela ne marche pas car la bdd n'est pas a jour, celle-ci sera a jour a 7h30 du matin si les machines sont allumér sinon 5 minutes apres le demarrage de la machine.
  
-###Exercice 3
+### Exercice 3
 
 2.La combinaison est ctrl +alt + 8 :
  ![image](https://user-images.githubusercontent.com/77662970/189535280-39e4c73f-1135-4c94-8ac8-4a2d4c0bcf22.png)
@@ -85,7 +85,7 @@ Yanis  Mansouri
 
 
 
-###Exercice 4 
+### Exercice 4 
 
 
 ![image](https://user-images.githubusercontent.com/77662970/189540480-3f467930-542f-4998-b6d7-de174be09d7e.png)
