@@ -8,7 +8,7 @@ Yanis  Mansouri
 
 ## 1. A l’aide du manuel, identifiez le rôle de la commande which
 Avec la commande which nous pouvons trouver le chemins d’accès au commandes exécutables
-##2.Quand on consulte une page du manuel, comment peut-on rechercher un terme (par exemple, chercher
+## 2.Quand on consulte une page du manuel, comment peut-on rechercher un terme (par exemple, chercher
 le terme option dans la page de manuel de which ?
 On peut recherchez un terme spécifique avec : /nom_rechercher
 4.	Avec la touche q nous pouvons quitter le manuelle immédiatement
