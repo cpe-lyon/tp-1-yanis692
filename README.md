@@ -87,6 +87,20 @@ Yanis  Mansouri
 
 ### Exercice 4 
 
+## 1.Commencez par créer une copie de ce fichier, que vous appellerez .bashrc_bak 
+Pour copier le fichier on utilise la commande ```cp``` suivie par le fichier cible et le nom de la copie
 
+## 2.Editez le fichier .bashrc avec nano et décommentez la ligne force_color_prompt=yes pour activer
+la couleur. Enregistrez le fichier et quittez nano
+
+![image](https://user-images.githubusercontent.com/77662970/194298540-aae3d863-4fc5-4408-b94c-e2fcf8b1257c.png)
+
+## 4.Les couleurs par défauts (surtout celle du dossier courant) ne sont pas très visibles. Dans .bashrc,
+cherchez les lignes commençant par PS1= ; elles indiquent la mise en forme de l’invite de commande
+(selon que l’on est en couleurs ou non).
+Sur cette ligne, on peut distinguer un certain nombre de raccourcis :
+
+![image](https://user-images.githubusercontent.com/77662970/194298770-90e9a301-948a-4e90-9db4-44a1d90c7f08.png)
+## Résultat
 ![image](https://user-images.githubusercontent.com/77662970/189540480-3f467930-542f-4998-b6d7-de174be09d7e.png)
 
