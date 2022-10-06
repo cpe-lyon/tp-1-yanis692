@@ -4,7 +4,7 @@ Yanis  Mansouri
 
 # Exercice 2. Prise en main de l’interpréteur de commandes
 
-### Manuel
+# Manuel
 
 ## 1. A l’aide du manuel, identifiez le rôle de la commande which
 Avec la commande which nous pouvons trouver le chemins d’accès au commandes exécutables
@@ -17,7 +17,7 @@ Avec la touche q nous pouvons quitter le manuelle immédiatement
 première page de la section 6 ; de quoi parle cette section ?
 L’introduction de la section 6 nous informe que des jeux et des programmes de jeux sont disponible sur le système
 
-### Navigation dans l’arborescence des fichiers
+# Navigation dans l’arborescence des fichiers
 
 5.	On ne peut pas accéder au dossier root pour des problèmes de permissions
 6.	Nous n’avons pas accès à cette commande car nous somme pas connecter en tant que ‘admin’ donc nous avons pas les droit pour utiliser les commande sudo.
