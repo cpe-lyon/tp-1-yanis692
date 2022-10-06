@@ -2,7 +2,7 @@
 
 Yanis  Mansouri
 
-## Exercice 2. Prise en main de l’interpréteur de commandes
+# Exercice 2. Prise en main de l’interpréteur de commandes
 
 ### Manuel
 
@@ -11,8 +11,11 @@ Avec la commande which nous pouvons trouver le chemins d’accès au commandes e
 ## 2.Quand on consulte une page du manuel, comment peut-on rechercher un terme (par exemple, chercher
 le terme option dans la page de manuel de which ?
 On peut recherchez un terme spécifique avec : /nom_rechercher
-4.	Avec la touche q nous pouvons quitter le manuelle immédiatement
-5.	L’introduction de la section 6 nous informe que des jeux et des programmes de jeux sont disponible sur le système
+## 3.	Comment quitte-t-on le manuel ?
+Avec la touche q nous pouvons quitter le manuelle immédiatement
+## 4.Chaque section du manuel a une première page, qui présente le contenu de la section. Afficher la
+première page de la section 6 ; de quoi parle cette section ?
+L’introduction de la section 6 nous informe que des jeux et des programmes de jeux sont disponible sur le système
 
 ### Navigation dans l’arborescence des fichiers
 
