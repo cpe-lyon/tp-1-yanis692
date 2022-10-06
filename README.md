@@ -6,8 +6,11 @@ Yanis  Mansouri
 
 ### Manuel
 
-1.	Avec la commande which nous pouvons trouver le chemins d’accès au commandes exécutables
-2. On peut recherchez un terme spécifique avec : /nom_rechercher
+## 1. A l’aide du manuel, identifiez le rôle de la commande which
+Avec la commande which nous pouvons trouver le chemins d’accès au commandes exécutables
+##2.Quand on consulte une page du manuel, comment peut-on rechercher un terme (par exemple, chercher
+le terme option dans la page de manuel de which ?
+On peut recherchez un terme spécifique avec : /nom_rechercher
 4.	Avec la touche q nous pouvons quitter le manuelle immédiatement
 5.	L’introduction de la section 6 nous informe que des jeux et des programmes de jeux sont disponible sur le système
 
